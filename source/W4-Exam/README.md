@@ -24,11 +24,11 @@ The R script called `run_analysis.R` does the following steps:
 ## Review Criteria
 Goal | Item | Link to Item
 --- | --- | ---
-Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/run_analysis.R "run_analysis.R")
-Tidy Data Set |  Clean Data Set |  [Data Set Link](https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/data/tidyData.txt "tidyData.txt")
-Github Repo | Repo |  [Repo Link](https://github.com/mGalarnyk/datasciencecoursera/tree/master/3_Getting_and_Cleaning_Data "Click to go to Repo")
-Codebook | CodeBook.md |  [Repo Link](https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/CodeBook.md "CodeBook.md")
-README | ReadingItNow |  [Repo Link](https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/README.md "README.md")
+Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/KingRoger19/JHSPH-Data-Science/blob/master/source/W4-Exam/run_analysis.R "run_analysis.R")
+Tidy Data Set |  Clean Data Set |  [Data Set Link](https://github.com/KingRoger19/JHSPH-Data-Science/blob/master/data/W4-Exam/output/tidyData.txt "tidyData.txt")
+Github Repo | Repo |  [Repo Link](https://github.com/KingRoger19/JHSPH-Data-Science/blob/master/source/W4-Exam/ "Click to go to Repo")
+Codebook | CodeBook.md |  [Repo Link](https://github.com/KingRoger19/JHSPH-Data-Science/blob/master/source/W4-Exam/CodeBook.md "CodeBook.md")
+README | ReadingItNow |  [Repo Link](https://github.com/KingRoger19/JHSPH-Data-Science/blob/master/source/W4-Exam/README.md "README.md")
 
 
 <br/><br/>
